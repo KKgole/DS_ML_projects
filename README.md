@@ -7,4 +7,4 @@ The html file contains the full code used in the project. It is recommended to c
 # Contribution guidelines
 The highest possible accuracy for prediction is 100%. Any contributions to attain the highest accuracy are welcome! 
 # Licensing info.
-The data are available on the public domain e.g., kaggle.com and github.com
+The data and potential solutions are available on the public domain e.g., kaggle.com and github.com, therefore no licensing restrictions are not known at the time of publisihing. 
